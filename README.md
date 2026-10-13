@@ -149,9 +149,6 @@ Software Engineer with solid experience in designing **web and mobile applicatio
 | 👥 **Human Resources Module** | Human resources management module. | `Odoo` |
 | 🖥️ **Virtualization & Deployment** | Virtualization and deployment of web applications (Spring Boot, Angular). | `VMware ESXi` `Docker` |
 
-> 🔗 Add the link of each repository in the project names, for example `[📦 Smart Batch Traceability](https://github.com/Ameni-Jarboui/REPO_NAME)`.
-
----
 
 ## 📊 GitHub Stats
 
