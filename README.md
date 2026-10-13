@@ -140,8 +140,14 @@ Software Engineer with solid experience in designing **web and mobile applicatio
 
 | Project | Description | Tech |
 |---|---|---|
-| 📦 **Smart Batch Traceability** | Web app tracking batches from producer to finished product: QR codes, automated quality control, batch splitting/merging, targeted recursive recall, JWT auth and roles. | `React` `Node.js` `Express` `PostgreSQL` `Prisma` |
-| 🧩 **Student Management (Microservices)** | Microservices-based application with service discovery, API gateway and distributed tracing. | `Spring Boot` `Docker` `Eureka` `Zipkin` `PostgreSQL` |
+| 📦 **Smart Batch Traceability** | Web app tracking batches from producer to finished product: QR codes, automated quality control, batch splitting/merging, targeted recursive recall, JWT auth and roles (operator / quality / admin). | `React` `Node.js` `Express` `PostgreSQL` `Prisma` |
+| 🧩 **Student Management (Microservices)** | Microservices-based application for student management with service discovery, API gateway and distributed tracing. | `Spring Boot` `Docker` `Eureka` `Zipkin` `PostgreSQL` `API Gateway` |
+| 🧪 **Automated & Manual Testing** | Python scripts to validate the key user flows of an e-commerce application (sign-up, login, cart, checkout), plus manual tests with test case writing and defect tracking. | `Python` `Selenium` `PyTest` `JIRA` |
+| 🎓 **Student Management System** | Web application for managing students. | `Laravel` `Vue.js` `PHP` |
+| 🧑‍💼 **Employee Management System** | Web application for managing employees. | `React` `Node.js` `MongoDB` |
+| 🏢 **Internship Web Platform** | Platform for managing internships. | `Flutter` `Firebase` `GitHub` |
+| 👥 **Human Resources Module** | Human resources management module. | `Odoo` |
+| 🖥️ **Virtualization & Deployment** | Virtualization and deployment of web applications (Spring Boot, Angular). | `VMware ESXi` `Docker` |
 
 > 🔗 Add the link of each repository in the project names, for example `[📦 Smart Batch Traceability](https://github.com/Ameni-Jarboui/REPO_NAME)`.
 
