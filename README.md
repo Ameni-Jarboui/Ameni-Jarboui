@@ -65,17 +65,85 @@ Software Engineer with solid experience in designing **web and mobile applicatio
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Internship Projects
+
+<details open>
+<summary><b>⚽ Automatic Football Highlights Detection</b> — DiwanSport · <i>Feb 2025 – Jun 2025 · End-of-Studies Internship</i></summary>
+<br/>
+
+- Collected and annotated data, then integrated AI models for **object detection (YOLOv11)**, **multi-object tracking (ByteTrack)**, **ball trajectory smoothing and interpolation**, and **event detection** (goals and cards).
+- Developed a web application to run the AI models and display the extracted highlights.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-444444?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛒 Mobile E-commerce Application</b> — Cyberax LLC · <i>Jun 2024 – Aug 2024 · Summer Internship</i></summary>
+<br/>
+
+- Developed a complete **dashboard** to manage users, products, orders and sales statistics.
+- Developed a **mobile application for delivery drivers** (tracking and updating delivery statuses).
+- Wrote **automated tests** for the backend (JUnit), the dashboard (Selenium) and the APIs (Postman), integrated into the **Jenkins CI/CD pipeline** to validate every code change.
+- **Containerized** the applications with Docker and automated build, testing and deployment.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎟️ Event Ticket Booking Application</b> — International Institute of Technology of Sfax · <i>Feb 2024 – May 2024 · End-of-Year Internship</i></summary>
+<br/>
+
+- Developed the **web module** for managing events and categories, and the **mobile module** allowing users to book tickets.
+- Implemented secure authentication and **role-based access control** using Spring Security and JWT.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📱 Mobile E-commerce Application</b> — UNILOG · <i>Feb 2022 – May 2022 · Final Year Internship</i></summary>
+<br/>
+
+- Developed a mobile application with Flutter for **browsing products and placing orders**.
+- Implemented **product and order management** (add to cart, order creation, order tracking).
+- Used **Firebase** for the database and user authentication.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</details>
+
+---
+
+## 🚀 Academic & Personal Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| ⚽ **Football Highlights Detection** | Automatic detection of football highlights (goals, cards) with object detection, multi-object tracking and ball trajectory smoothing, plus a web app to display the extracted highlights. | `Python` `YOLOv11` `ByteTrack` `OpenCV` `FastAPI` `Spring Boot` `Angular` |
 | 📦 **Smart Batch Traceability** | Web app tracking batches from producer to finished product: QR codes, automated quality control, batch splitting/merging, targeted recursive recall, JWT auth and roles. | `React` `Node.js` `Express` `PostgreSQL` `Prisma` |
 | 🧩 **Student Management (Microservices)** | Microservices-based application with service discovery, API gateway and distributed tracing. | `Spring Boot` `Docker` `Eureka` `Zipkin` `PostgreSQL` |
-| 🎟️ **Event Ticket Booking** | Web module for event management and mobile app for booking tickets, secured with Spring Security and JWT. | `Angular` `Spring Boot` `Flutter` `MySQL` |
-| 🛒 **E-commerce Mobile App** | Admin dashboard, delivery mobile app, automated tests and a Jenkins CI/CD pipeline. | `Angular` `Spring Boot` `Flutter` `MongoDB` `Jenkins` `Docker` |
 
-> 🔗 Add the link of each repository in the project names, for example `[⚽ Football Highlights Detection](https://github.com/Ameni-Jarboui/REPO_NAME)`.
+> 🔗 Add the link of each repository in the project names, for example `[📦 Smart Batch Traceability](https://github.com/Ameni-Jarboui/REPO_NAME)`.
 
 ---
 
